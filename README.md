@@ -12,3 +12,11 @@ To use this script, run it from the command line and provide the file paths of t
 
 ```bash
 python merge_pdf.py cover.pdf footer.pdf -o output.pdf
+```
+
+## Installation
+You can install the required dependencies using pip:
+
+```bash
+pip install -r requirements.txt
+```
